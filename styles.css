@@ -68,6 +68,8 @@ nav {
     background-color: var(--third-color);
     border-radius: 10px;
   }
+
+
   
   /* Responsive styles for smaller screens */
   @media (max-width: 890px) {
@@ -435,7 +437,7 @@ font-size: 5rem;
   margin-top: 5rem;
   padding: 3rem;
   background-color: var(--third-color);
-  justify-content: center; /* Center the slides wrapper */
+ justify-content:center;
 }
 
 .slide {
